@@ -7,5 +7,5 @@
 ## Price of ingredients
 * 30p
 * 40p
-* 50p 
+* 50 
 
