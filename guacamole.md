@@ -4,7 +4,7 @@
 * lime
 * salt
 ## Instructions
-##Price of ingredients
+## Price of ingredients
 * 30p
 * 40p
 * 50p 
